@@ -1,7 +1,10 @@
 <?php
 /**
- * Created by PhpStorm.
- * User: k.wisniewski
- * Date: 07.01.2019
- * Time: 13:18
+ * Copyright © 2015 Magento. All rights reserved.
+ * See COPYING.txt for license details.
  */
+\Magento\Framework\Component\ComponentRegistrar::register(
+    \Magento\Framework\Component\ComponentRegistrar::THEME,
+    'frontend/Sample/ultimate',
+    __DIR__
+);
