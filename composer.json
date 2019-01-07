@@ -2,9 +2,9 @@
   "name": "przmak/simple_ultimate",
   "description": "N/A",
   "require": {
-    "php": "~7.1.3|~7.2.0",
-    "magento/theme-frontend-blank": "100.0.*",
-    "magento/framework": "100.0.*"
+    "php": "*",
+    "magento/theme-frontend-blank": "*",
+    "magento/framework": "*"
   },
   "type": "magento2-theme",
   "version": "100.0.1",
