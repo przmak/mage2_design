@@ -1,5 +1,5 @@
 {
-  "name": "przmak/theme-frontend-simple",
+  "name": "przmak/magento2-theme-simple",
   "description": "N/A",
   "config": {
     "sort-packages": true
@@ -10,7 +10,7 @@
     "magento/theme-frontend-luma": "100.3.*"
   },
   "type": "magento2-theme",
-  "version": "100.1.5",
+  "version": "100.4.0",
   "license": [
     "OSL-3.0",
     "AFL-3.0"
